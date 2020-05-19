@@ -1,0 +1,22 @@
+
+body{
+    background-image:url(img/BGWEB.jpg);
+    background-size:cover;
+    background-attachment: fixed;
+    color: white;
+  }
+
+/* contact */
+    .contact h2 {
+      font-family: fantasy;
+      font-weight: bold;
+      font-size: 8rem;
+      margin: 3rem;
+      color: #6f5959;
+      margin-bottom: 50px;
+      margin-top: 5%;
+
+    }
+.list-group li{
+  color: black;
+}
